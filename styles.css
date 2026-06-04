@@ -354,7 +354,7 @@ main section {
 }
 
 .intro-band {
-  padding: 92px 0;
+  padding: 82px 0 38px;
   background: var(--paper);
 }
 
@@ -415,6 +415,10 @@ main section {
 .faq-section,
 .contact-section {
   padding: 104px 0;
+}
+
+.problem-section {
+  padding-top: 56px;
 }
 
 .problem-section,
@@ -1169,6 +1173,14 @@ address a:focus-visible {
   .faq-section,
   .contact-section {
     padding: 68px 0;
+  }
+
+  .intro-band {
+    padding: 58px 0 28px;
+  }
+
+  .problem-section {
+    padding-top: 46px;
   }
 
   .intro-grid h2,
