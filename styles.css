@@ -425,6 +425,14 @@ main section {
   color: var(--white);
 }
 
+.communication-section h2,
+.communication-section h3,
+.communication-section .communication-panel > p,
+.communication-section .communication-cards p,
+.communication-section .communication-note {
+  color: var(--white);
+}
+
 .communication-grid {
   display: grid;
   grid-template-columns: 0.74fr 1.26fr;
